@@ -1,0 +1,36 @@
+final Map<String, String> enUs = {
+  'msg_network_err': 'Network Error',
+  'msg_something_went_wrong': 'Something Went Wrong!',
+  "lbl_year": "Year:",
+  "lbl_actors": "Actors:",
+  "lbl_movie_details": "Movie Details",
+  "lbl_city_of_god": "City of God",
+  "lbl_fantasy": "Fantasy",
+  "msg_francis_ford_coppola": "Francis Ford Coppola",
+  "lbl_1994": "1994",
+  "msg_fernando_meirelles": "Fernando Meirelles, Kátia Lund",
+  "msg_the_shawshank_redemption": "The Shawshank Redemption",
+  "lbl_2002": "2002",
+  "lbl_plot": "Plot:",
+  "lbl_year_1984": "Year: 1984",
+  "lbl_4_crime_movies": "4 Crime movies",
+  "lbl_music": "Music",
+  "lbl_app_navigation": "App Navigation",
+  "lbl_drama": "Drama",
+  "lbl_crime": "Crime",
+  "lbl_comedy": "Comedy",
+  "lbl_frank_darabont": "Frank Darabont",
+  "msg_richard_gere_gregory":
+      "Richard Gere, Gregory Hines, Diane Lane, Lonette McKee",
+  "msg_check_your_app_s":
+      "Check your app's UI from the below demo screens of your app.",
+  "lbl_home_page": "Home Page",
+  "msg_the_cotton_club":
+      "The Cotton Club was a famous night club in Harlem. The story follows the people that visited the club, those that ran it, and is peppered with the Jazz music that made it so",
+  "lbl_movieonline": "MovieOnline",
+  "lbl_1984": "1984",
+  "lbl_year_2002": "Year: 2002",
+  "lbl_year_1994": "Year: 1994",
+  "lbl_director": "Director:",
+  "lbl_the_cotton_club": "The Cotton Club"
+};
