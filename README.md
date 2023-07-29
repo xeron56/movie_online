@@ -2,5 +2,9 @@
  
 
 
-https://github.com/xeron56/movie_online/assets/11449967/c7cbc50c-c453-4291-9afa-3052bf9e1923
+
+
+
+
+https://github.com/xeron56/movie_online/assets/11449967/8579aef3-8651-4e4e-b9bc-fe4338329ec1
 
